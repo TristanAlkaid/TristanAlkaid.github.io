@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at Chongqing University of Posts and Telecommunications. my tutor is [Ye Wang](https://wangye0523.github.io/).
+I am an undergraduate student at Chongqing University of Posts and Telecommunications. My tutor is [Ye Wang](https://wangye0523.github.io/).
 
 
 
