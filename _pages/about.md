@@ -29,7 +29,7 @@ I am currently an undergraduate student at Chongqing University of Posts and Tel
 - *2023.11*, The 11th National College Students' Digital Media Technology Works and Creativity Competition，National third prize.
 - *2023.08*, The 14th China Students Service Outsourcing Innovation and Entrepreneurship Competition, National second prize.
 - *2023.05*, The 16th Chinese Collegiate Computing Competition, Provincial second prize.
-- *2023.05*, The 14th China Students Service Outsourcing Innovation and Entrepreneurship Competition, Regional second prize.
+- *2023.05*, The 14th China Students Service Outsourcing Innovation and Entrepreneurship Competition, Regional first prize.
 - *2022.11*, China Undergraduate Mathematical Contest in Modeling (2022), Provincial first prize.
 
 
