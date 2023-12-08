@@ -21,7 +21,7 @@ I am currently an undergraduate student at Chongqing University of Posts and Tel
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🎉🎉 I won the National Scholarship for college students in the academic year 2022-2023. 
+- *2023.12*: &nbsp;🎉🎉 Happy to be awarded the National Scholarship for college students in the academic year 2022-2023. 
 
 
 # 📝 Competitions 
