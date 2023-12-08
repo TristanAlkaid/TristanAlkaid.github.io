@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am an undergraduate student at Chongqing University of Posts and Telecommunications. My tutor is [Ye Wang](https://wangye0523.github.io/).
-
+I will go to Sichuan University in 2024 to study for a master's degree.
 
 
 # 🔥 News
@@ -26,16 +26,20 @@ I am an undergraduate student at Chongqing University of Posts and Telecommunica
 
 
 # 📝 Competitions 
-- *2023.08*,The 14th China Students Service Outsourcing Innovation and Entrepreneurship Competition,Second prize of national.
+- *2023.11*, The 11th National College Students' Digital Media Technology Works and Creativity Competition，National second prize.
+- *2023.11*, The 11th National College Students' Digital Media Technology Works and Creativity Competition，National third prize.
+- *2023.08*, The 14th China Students Service Outsourcing Innovation and Entrepreneurship Competition, National second prize.
+- *2023.05*, The 16th Chinese Collegiate Computing Competition, Provincial second prize.
+- *2023.05*, The 14th China Students Service Outsourcing Innovation and Entrepreneurship Competition, Regional second prize.
+- *2022.11*, China Undergraduate Mathematical Contest in Modeling (2022), Provincial first prize.
 
 
 
 # 🎖 Honors and Awards
-
-- *2022.06* Chongqing Merit Student.
-- *2022.12* the National Scholarship.
+- *2023.12* China National Scholarship.
 - *2023.06* Chongqing Excellent Student Cadre.
-- *2023.12* the National Scholarship.
+- *2022.12* China National Scholarship.
+- *2022.06* Chongqing Merit Student.
 
 
 
