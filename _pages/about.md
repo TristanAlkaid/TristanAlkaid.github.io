@@ -61,4 +61,7 @@ I am currently an undergraduate student at Chongqing University of Posts and Tel
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
+# Traffic statistics
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RkKj3tHK4P8QoPYq7dew8DX87K1aZDrq3LlaQ2bm80Y"></script>
+# Traffic statistics
 <a href="https://clustrmaps.com/site/1bxpc"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RkKj3tHK4P8QoPYq7dew8DX87K1aZDrq3LlaQ2bm80Y&cl=ffffff" /></a>
