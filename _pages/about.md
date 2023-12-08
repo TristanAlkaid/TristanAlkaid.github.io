@@ -31,8 +31,11 @@ I am currently an undergraduate student at Chongqing University of Posts and Tel
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2022.06* Chongqing Merit Student.
+- *2022.12* the National Scholarship.
+- *2023.06* Chongqing Excellent Student Cadre.
+- *2023.12* the National Scholarship.
 
 
 
