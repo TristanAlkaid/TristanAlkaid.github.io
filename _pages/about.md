@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at Chongqing University of Posts and Telecommunications. My tutor is [Ye Wang](https://wangye0523.github.io/).
-I will go to Sichuan University in 2024 to study for a master's degree.
+I am currently an undergraduate student at Chongqing University of Posts and Telecommunications, with the supervision of [Ye Wang](https://wangye0523.github.io/). I will go to Sichuan University in Septemter 2024 for a master degree.
 
 
 # 🔥 News
