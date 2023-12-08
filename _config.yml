@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guanmeng Xian"
   avatar           : "images/xgm.jpg"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "@Computer Science, Chongqing University of Posts and Telecommunications"
+  location         : "Chongqing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "gm_Xian@126.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           "gmXian"
   google_plus      :
   keybase          :
   instagram        :
