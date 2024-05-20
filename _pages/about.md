@@ -37,7 +37,7 @@ I am currently an undergraduate student at Chongqing University of Posts and Tel
 
 
 # 🎖 Honors and Awards
-- *2022.04*, Chongqing Outstanding Graduates.
+- *2024.04*, Chongqing Outstanding Graduates.
 - *2023.12*, The advanced individual in academic development.
 - *2023.12*, The China **National Scholarship** (2022-2023).
 - *2023.10*, The First Prize Scholarship (CQUPT).
