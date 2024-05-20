@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at Chongqing University of Posts and Telecommunications, with the supervision of [Ye Wang](https://wangye0523.github.io/). I will go to Sichuan University in Septemter 2024 for a master degree.
+I am currently an undergraduate student at Chongqing University of Posts and Telecommunications, with the supervision of [Ye Wang](https://wangye0523.github.io/). I will go to Sichuan University in Septemter 2024 for a master degree, with the supervision of [Ning Yang](https://yneversky.github.io/).
 
 
 # 🔥 News
