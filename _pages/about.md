@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey there! So glad you stopped by my page! Let me introduce myself real quick ~  :heart::heart::heart:\n
-I’m an undergraduate student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of [Ye Wang](https://wangye0523.github.io/). Oh, and just for fun, my MBTI is INFJ, haha! I’m super into sci-fi novels and movies—can’t get enough of them! Best wishes for our future adventures! :kissing_heart:
+ Hey there! 👋 So glad you stopped by my page! Let me introduce myself real quick ~ ❤️❤️❤️<br />
+I’m an undergraduate student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of [Ye Wang](https://wangye0523.github.io/). I’m super into sci-fi novels and movies—can’t get enough of them! Oh, and just for fun, my MBTI is INFJ, haha!😆😆😆 <br />
+Best wishes for our future adventures!✨
 
 # 📖 Educations
 - *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
