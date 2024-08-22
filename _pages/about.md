@@ -40,7 +40,6 @@ I am currently an undergraduate student at Chongqing University of Posts and Tel
 - *2023.05*, The 16th Chinese Collegiate Computing Competition, Provincial Second Prize.
 
 
-
 # 🎖 Honors and Awards
 - *2024.06*, The Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program.
 - *2024.06*, The Advanced Class Collective of the 2024 Academic Year in Chongqing Municipal Regular Higher Education Institutions offered Chongqing Municipal Education Commission.
@@ -49,6 +48,7 @@ I am currently an undergraduate student at Chongqing University of Posts and Tel
 - *2023.11*, The Outstanding Volunteer at Belt and Road Conference on Science and Technology offered by Chongqing Young Volunteers Association.
 - *2023.10*, The Third Scholarship offered by Chongqing University of Posts and Telecommunications.
 - *2023.02*, The Excellent Student Cadre offered by Chongqing University of Posts and Telecommunications.
+
 
 <!--
 
