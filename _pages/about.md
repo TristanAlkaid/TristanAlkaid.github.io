@@ -67,7 +67,8 @@ Best wishes for our future adventures!✨
 # 🌍 Visit statistics
 <div align="center">
     <a href="https://clustrmaps.com/site/1c0yo" title="Visit tracker">
-        <img src="//www.clustrmaps.com/map_v2.png?d=uMzsnt-1fWrC3CQgYTM53tlxUHNzRzMReLoKwaO0fOc&cl=ffffff" style="transform: scale(2); transform-origin: center;">
+        <img src="//www.clustrmaps.com/map_v2.png?d=uMzsnt-1fWrC3CQgYTM53tlxUHNzRzMReLoKwaO0fOc&cl=ffffff" style="width:50px; height:360px;">
     </a>
 </div>
+
 
