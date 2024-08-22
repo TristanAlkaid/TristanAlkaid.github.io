@@ -26,7 +26,8 @@ Best wishes for our future adventures!✨
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 Happy to get RAICOM 2024 National thrid prize again. 
+- *2024.08*: &nbsp;🎉🎉 Happy to get RAICOM 2024 National Thrid Prize again.
+- *2024.06*: &nbsp;🎉🎉 Happy to get The Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program! 
 
 
 # 📝 Competitions 
