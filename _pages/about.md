@@ -43,7 +43,7 @@ Best wishes for our future adventures!✨
 - *2023.05*, The 16th Chinese Collegiate Computing Competition, Provincial Second Prize.
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2024.06*, The Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program.
 - *2024.06*, The Advanced Class Collective of the 2024 Academic Year in Chongqing Municipal Regular Higher Education Institutions offered Chongqing Municipal Education Commission.
 - *2024.02*, The Excellent Student Cadre offered by Chongqing University of Posts and Telecommunications.
@@ -63,8 +63,9 @@ Best wishes for our future adventures!✨
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
 
-# Traffic statistics
+
+# 🌍 Traffic statistics
+<!--
 <div align=center> <a href="https://clustrmaps.com/site/1c0yo" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=uMzsnt-1fWrC3CQgYTM53tlxUHNzRzMReLoKwaO0fOc&cl=ffffff"></a>
-<!--注释掉了
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5rlpmlmwfoq&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;s=256" async="async"></script>
 -->
+<a href="https://clustrmaps.com/site/1c0yo" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=uMzsnt-1fWrC3CQgYTM53tlxUHNzRzMReLoKwaO0fOc&cl=ffffff"></a>
