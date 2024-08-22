@@ -21,25 +21,22 @@ I am currently an undergraduate student at Chongqing University of Posts and Tel
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 Happy to be awarded Chongqing Outstanding Graduates. 
-- *2023.12*: &nbsp;🎉🎉 Happy to be awarded the Advanced individual in academic development. 
-- *2023.12*: &nbsp;🎉🎉 Happy to be awarded the National Scholarship in the academic year 2022-2023. 
+- *2024.08*: &nbsp;🎉🎉 Happy to get RAICOM 2024 National thrid prize again. 
 
 
 # 📝 Competitions 
 - *2023.11*, The 11th National College Students' Digital Media Technology Works and Creativity Competition，National second prize.
 - *2023.11*, The 11th National College Students' Digital Media Technology Works and Creativity Competition，National third prize.
-- *2023.08*, The 14th China Students Service Outsourcing Innovation and Entrepreneurship Competition, National second prize.
+- *2023.08*, The 16th Chinese Collegiate Computing Competition, National thrid prize.
+- *2023.08*, The 10th 3S Cup University Student IoT Technology and Application "Three Innovations" Competition, National third prize.
+- *2023.08*，RAICOM 2023, National thrid prize.
+- *2023.07*，RAICOM 2023, Provincial First prize.
 - *2023.05*, The 16th Chinese Collegiate Computing Competition, Provincial second prize.
-- *2023.05*, The 14th China Students Service Outsourcing Innovation and Entrepreneurship Competition, Regional first prize.
-- *2022.11*, China Undergraduate Mathematical Contest in Modeling (2022), Provincial first prize.
 
 
 
 # 🎖 Honors and Awards
-- *2024.04*, Chongqing Outstanding Graduates.
-- *2023.12*, The advanced individual in academic development.
-- *2023.12*, The China **National Scholarship** (2022-2023).
+- *2023.02*, The Best Team Project Award Offered by Centre for Augmented and Virtual Reality (CAVR), Nanyang Technological University, Singapore
 - *2023.10*, The First Prize Scholarship (CQUPT).
 - *2023.07*, Graduated from the 16th Chongqing Youth Marxism Project.
 - *2023.06*, Chongqing Excellent Student Cadre.
