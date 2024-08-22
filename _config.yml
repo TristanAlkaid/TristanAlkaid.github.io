@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuyang Zhou"
-description              : "Computer Vision"
+description              : "Computer Vision & NLP"
 repository               : "TristanAlkaid.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Zhou_Xuyang@qq.com"
+  email            : "Zhou_Xuyang@foxmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
