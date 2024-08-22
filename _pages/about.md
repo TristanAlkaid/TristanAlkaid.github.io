@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at Chongqing University of Posts and Telecommunications, with the supervision of [Ye Wang](https://wangye0523.github.io/).
+Hey there! So glad you stopped by my page! Let me introduce myself real quick~ 
+I’m an undergraduate student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of [Ye Wang](https://wangye0523.github.io/). Oh, and just for fun, my MBTI is INFJ, haha! I’m super into sci-fi novels and movies—can’t get enough of them! Best wishes for our future adventures!
 
 # 📖 Educations
 - *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
