@@ -19,39 +19,35 @@ redirect_from:
 
 I am currently an undergraduate student at Chongqing University of Posts and Telecommunications, with the supervision of [Ye Wang](https://wangye0523.github.io/).
 
+# 📖 Educations
+- *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
+
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 Happy to get RAICOM 2024 National thrid prize again. 
 
 
 # 📝 Competitions 
-- *2023.11*, The 11th National College Students' Digital Media Technology Works and Creativity Competition，National second prize.
-- *2023.11*, The 11th National College Students' Digital Media Technology Works and Creativity Competition，National third prize.
-- *2023.08*, The 16th Chinese Collegiate Computing Competition, National thrid prize.
-- *2023.08*, The 10th 3S Cup University Student IoT Technology and Application "Three Innovations" Competition, National third prize.
-- *2023.08*，RAICOM 2023, National thrid prize.
-- *2023.07*，RAICOM 2023, Provincial First prize.
-- *2023.05*, The 16th Chinese Collegiate Computing Competition, Provincial second prize.
+- *2024.08*, RAICOM 2024, National Thrid prize.
+- *2024.07*, RAICOM 2024, Provincial Second Prize.
+- *2023.11*, The 11th National College Student Digital Media Technology Works and Creativity Competition，National Second Prize.
+- *2023.11*, The 11th National College Student Digital Media Technology Works and Creativity Competition，National Third Prize.
+- *2023.11*, The 11th National College Student Digital Media Technology Works and Creativity Competition，Provincial First Prize.
+- *2023.08*, The 16th Chinese Collegiate Computing Competition, National Thrid Prize.
+- *2023.08*, The 10th 3S Cup University Student IoT Technology and Application "Three Innovations" Competition, National Third Prize.
+- *2023.08*, RAICOM 2023, National Thrid prize.
+- *2023.07*, RAICOM 2023, Provincial First Prize.
+- *2023.05*, The 16th Chinese Collegiate Computing Competition, Provincial Second Prize.
 
 
 
 # 🎖 Honors and Awards
-- *2023.02*, The Best Team Project Award Offered by Centre for Augmented and Virtual Reality (CAVR), Nanyang Technological University, Singapore
-- *2023.10*, The First Prize Scholarship (CQUPT).
-- *2023.07*, Graduated from the 16th Chongqing Youth Marxism Project.
-- *2023.06*, Chongqing Excellent Student Cadre.
-- *2022.12*, The China **National Scholarship** (2021-2022).
-- *2022.10*, The First Prize Scholarship (CQUPT).
-- *2022.06*, Chongqing Merit Student.
-- *2022.05*, Top ten secretary of Youth League branch (CQUPT).
-- *2021.12*, The China National Encouragement Scholarship (2020-2021).
-- *2021.10*, The First Prize Scholarship (CQUPT).
-
-
-
-# 📖 Educations
-- *2021.09 - 2025.06*, B.Eng. Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
-
+- *2024.06*, Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program.
+- *2024.02*, Excellent Student Cadre offered by Chongqing University of Posts and Telecommunications.
+- *2024.02*, The Best Team Project Award offered by Centre for Augmented and Virtual Reality (CAVR), Nanyang Technological University, Singapore.
+- *2023.11*, Outstanding Volunteer at Belt and Road Conference on Science and Technology offered by Chongqing Young Volunteers Association.
+- *2023.10*, The Third Scholarship offered by Chongqing University of Posts and Telecommunications.
+- *2023.02*, Excellent Student Cadre offered by Chongqing University of Posts and Telecommunications.
 
 <!--
 
