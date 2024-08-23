@@ -19,9 +19,9 @@ redirect_from:
 
 
 # 🌞 About Me
- - Hey there! 👋 So glad you stopped by my page! Let me introduce myself real quick ~ ❤️❤️❤️<br />
- - I’m an undergraduate student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of [Ye Wang](https://wangye0523.github.io/) and [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ). I’m super into sci-fi novels and movies—can’t get enough of them! Oh, and just for fun, my MBTI is INFJ, haha!😆😆😆 <br />
- - Best wishes for our future adventures!✨
+  Hey there! 👋 So glad you stopped by my page! Let me introduce myself real quick ~ ❤️❤️❤️<br />
+  I’m an undergraduate student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of [Ye Wang](https://wangye0523.github.io/) and [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ). I’m super into sci-fi novels and movies—can’t get enough of them! Oh, and just for fun, my MBTI is INFJ, haha!😆😆😆 <br />
+  Best wishes for our future adventures!✨
 
 
 # 🔥 News
@@ -57,7 +57,7 @@ redirect_from:
 
 
 # 🌍 Visit Statistics
-<div align="center"> <a href='https://clustrmaps.com/site/1c0yo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=uMzsnt-1fWrC3CQgYTM53tlxUHNzRzMReLoKwaO0fOc&co=2d78ad&ct=ffffff'/></a>
+<div align="center"> <a href='https://clustrmaps.com/site/1c0yo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=uMzsnt-1fWrC3CQgYTM53tlxUHNzRzMReLoKwaO0fOc'/></a>
 
 
 <!--
