@@ -17,17 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- Hey there! 👋 So glad you stopped by my page! Let me introduce myself real quick ~ ❤️❤️❤️<br />
+
+# 🌞 About Me
+Hey there! 👋 So glad you stopped by my page! Let me introduce myself real quick ~ ❤️❤️❤️<br />
 I’m an undergraduate student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of [Ye Wang](https://wangye0523.github.io/) and [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ). I’m super into sci-fi novels and movies—can’t get enough of them! Oh, and just for fun, my MBTI is INFJ, haha!😆😆😆 <br />
 Best wishes for our future adventures!✨
-
-# 📖 Educations
-- *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 Happy to get RAICOM 2024 National Thrid Prize again.
-- *2024.06*: &nbsp;🎉🎉 Happy to get The Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program! 
+- *2024.06*: &nbsp;🎉🎉 Happy to get The Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program!
+
+
+# 📖 Educations
+- *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 
 # 📝 Competitions 
