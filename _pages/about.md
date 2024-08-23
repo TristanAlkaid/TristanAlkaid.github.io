@@ -56,6 +56,10 @@ Best wishes for our future adventures!✨
 - *2023.02*, The Excellent Student Cadre offered by Chongqing University of Posts and Telecommunications.
 
 
+# 🌍 Visit Statistics
+<div align="center"> <a href='https://clustrmaps.com/site/1c0yo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=uMzsnt-1fWrC3CQgYTM53tlxUHNzRzMReLoKwaO0fOc&co=2d78ad&ct=ffffff'/></a>
+
+
 <!--
 
 # 💬 Invited Talks
@@ -65,7 +69,3 @@ Best wishes for our future adventures!✨
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
-
-
-# 🌍 Visit statistics
-<div align="center"> <a href='https://clustrmaps.com/site/1c0yo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=uMzsnt-1fWrC3CQgYTM53tlxUHNzRzMReLoKwaO0fOc&co=2d78ad&ct=ffffff'/></a>
