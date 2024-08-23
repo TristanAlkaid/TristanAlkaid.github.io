@@ -19,9 +19,9 @@ redirect_from:
 
 
 # 🌞 About Me
-- Hey there! 👋 So glad you stopped by my page! Let me introduce myself real quick ~ ❤️❤️❤️<br />
-I’m an undergraduate student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of [Ye Wang](https://wangye0523.github.io/) and [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ). I’m super into sci-fi novels and movies—can’t get enough of them! Oh, and just for fun, my MBTI is INFJ, haha!😆😆😆 <br />
-Best wishes for our future adventures!✨
+&emsp;&emsp;Hey there! 👋 So glad you stopped by my page! Let me introduce myself real quick ~ ❤️❤️❤️<br />
+&emsp;&emsp;I’m an undergraduate student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of [Ye Wang](https://wangye0523.github.io/) and [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ). I’m super into sci-fi novels and movies—can’t get enough of them! Oh, and just for fun, my MBTI is INFJ, haha!😆😆😆 <br />
+&emsp;&emsp;Best wishes for our future adventures!✨
 
 
 # 🔥 News
@@ -61,7 +61,6 @@ Best wishes for our future adventures!✨
 
 
 <!--
-
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
