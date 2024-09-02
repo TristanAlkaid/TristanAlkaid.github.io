@@ -24,18 +24,18 @@ redirect_from:
 </div>
 
 
-
-
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 Happy to get RAICOM 2024 National Thrid Prize again.
-- *2024.06*: &nbsp;🎉🎉 Happy to get The Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program!
-
+- *2024.08*, 🎉🎉 Happy to get RAICOM 2024 National Thrid Prize again.
+- *2024.06*, 🎉🎉 Happy to get The Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program!
 
 # 📖 Educations
 - *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
+# 📝 Projects
+- *2023.06 - 2024.06*, Digitizing Your Mindmap, Supported by National College Student Innovation and Entrepreneurship Training Program with Project No.202310617004.
+- *2023.01 - 2023.12*, An English Exploration Park Based on Air Handwriting Interaction, With four national-level awards and three provincial-level awards.
 
-# 📝 Competitions 
+# 🚩 Competitions 
 - *2024.08*, RAICOM 2024, National Thrid prize.
 - *2024.07*, RAICOM 2024, Provincial Second Prize.
 - *2023.11*, The 11th National College Student Digital Media Technology Works and Creativity Competition，National Second Prize.
@@ -43,10 +43,9 @@ redirect_from:
 - *2023.11*, The 11th National College Student Digital Media Technology Works and Creativity Competition，Provincial First Prize.
 - *2023.08*, The 16th Chinese Collegiate Computing Competition, National Thrid Prize.
 - *2023.08*, The 10th 3S Cup University Student IoT Technology and Application "Three Innovations" Competition, National Third Prize.
-- *2023.08*, RAICOM 2023, National Thrid prize.
+- *2023.08*, RAICOM 2023, National Thrid Prize.
 - *2023.07*, RAICOM 2023, Provincial First Prize.
 - *2023.05*, The 16th Chinese Collegiate Computing Competition, Provincial Second Prize.
-
 
 # 🏆 Honors and Awards
 - *2024.06*, The Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program.
@@ -57,10 +56,8 @@ redirect_from:
 - *2023.10*, The Third Scholarship offered by Chongqing University of Posts and Telecommunications.
 - *2023.02*, The Excellent Student Cadre offered by Chongqing University of Posts and Telecommunications.
 
-
 # 🌍 Visit Statistics
 <div align="center"> <a href='https://clustrmaps.com/site/1c0yo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=uMzsnt-1fWrC3CQgYTM53tlxUHNzRzMReLoKwaO0fOc'/></a>
-
 
 <!--
 # 💬 Invited Talks
