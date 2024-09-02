@@ -13,7 +13,7 @@ main:
     url: "/#-projects"
 
   - title: "Competitions"
-    url: "/#-educations"
+    url: "/#-competitions"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
