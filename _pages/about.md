@@ -25,8 +25,8 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.12*, 🎉🎉 Happy to get THE 6TH DIGIX GLOBAL AI CHALLENGE National Second Prize.
 - *2024.08*, 🎉🎉 Happy to get RAICOM 2024 National Thrid Prize again.
-- *2024.06*, 🎉🎉 Happy to get The Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program!
 
 # 📖 Educations
 - *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
@@ -36,6 +36,7 @@ redirect_from:
 - *2023.01 - 2023.12*, An English Exploration Park Based on Air Handwriting Interaction, With four national-level awards and three provincial-level awards.
 
 # 🚩 Competitions 
+- *2024.12*, THE 6TH DIGIX GLOBAL AI CHALLENGE, National Second Prize.
 - *2024.08*, RAICOM 2024, National Thrid prize.
 - *2024.07*, RAICOM 2024, Provincial Second Prize.
 - *2023.11*, The 11th National College Student Digital Media Technology Works and Creativity Competition，National Second Prize.
