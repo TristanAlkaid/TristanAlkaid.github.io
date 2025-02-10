@@ -36,7 +36,7 @@ redirect_from:
 
 
 # 📝 Projects
-- *2023.06 - 2024.06*, Digitizing Your Mindmap, Supported by National College Student Innovation and Entrepreneurship Training Program with Project No.202310617004.
+- *2023.06 - 2024.06*, Digitizing Your Mindmap, Supported by National Undergraduate Training Program for Innovation and Entrepreneurship with Project No.202310617004.
 - *2023.01 - 2023.12*, An English Exploration Park Based on Air Handwriting Interaction, With four national-level awards and three provincial-level awards.
 
 # 🚩 Competitions 
@@ -47,7 +47,7 @@ redirect_from:
 - *2023.11*, The 11th National College Student Digital Media Technology Works and Creativity Competition，National Third Prize.
 - *2023.11*, The 11th National College Student Digital Media Technology Works and Creativity Competition，Provincial First Prize.
 - *2023.08*, The 16th Chinese Collegiate Computing Competition, National Thrid Prize.
-- *2023.08*, The 10th 3S Cup University Student IoT Technology and Application "Three Innovations" Competition, National Third Prize.
+- *2023.08*, The 10th “3S Cup” Creativity, Innovation and Entrepreneurship Competition, National Third Prize.
 - *2023.08*, RAICOM 2023, National Thrid Prize.
 - *2023.07*, RAICOM 2023, Provincial First Prize.
 - *2023.05*, The 16th Chinese Collegiate Computing Competition, Provincial Second Prize.
