@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuyang Zhou"
-description              : "CV and NLP"
+# description              : "CV and NLP"
 repository               : "TristanAlkaid.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xuyang Zhou"
+  name             : "Xuyang Zhou(周绪洋)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "@Computer Science and Technology, Chongqing University of Posts and Telecommunications"
   location         : "Chongqing, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/TristanAlkaid/"
   google_plus      :
   keybase          :
   instagram        :
