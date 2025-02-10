@@ -24,7 +24,7 @@ redirect_from:
 </div>
 
 # 🔥 News
-- *2025.02*, 🎉🎉 Our paper was accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)]
+- *2025.02*, 🎉🎉 Our paper was accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://github.com/TristanAlkaid/HCBS)]
 - *2024.12*, 🎉🎉 Happy to get THE 6TH DIGIX GLOBAL AI CHALLENGE National Second Prize.
 - *2024.08*, 🎉🎉 Happy to get RAICOM 2024 National Thrid Prize again.
 
@@ -32,7 +32,7 @@ redirect_from:
 - *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 # 📄 Papers
-- *2025.02*,  _[Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection](https://github.com/TristanAlkaid/HCBS)_ accepted by _Information Processing and Management_. [Github](https://github.com/TristanAlkaid/HCBS)
+- *2025.02*,  _Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection_ accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://github.com/TristanAlkaid/HCBS)]
 
 
 # 📝 Projects
