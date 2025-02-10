@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuyang Zhou"
-# description              : "CV and NLP"
+description              : "Large Language Models"
 repository               : "TristanAlkaid.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xuyang Zhou\n周绪洋"
+  name             : "Xuyang Zhou<br>周绪洋"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "@Computer Science and Technology, Chongqing University of Posts and Telecommunications"
   location         : "Chongqing, China"
