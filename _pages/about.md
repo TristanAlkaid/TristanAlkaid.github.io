@@ -20,16 +20,20 @@ redirect_from:
 
 # 🌞 About Me
 <div style="padding-left: 20px;">
-&nbsp;&nbsp;&nbsp; Hey there! 👋 So glad you stopped by my page! Let me introduce myself real quick ~ ❤️❤️❤️ I’m an undergraduate student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of <a href="https://wangye0523.github.io/">Ye Wang</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ">Fei Tao</a>. I’m super into sci-fi novels and movies ——can’t get enough of them! Oh, and just for fun, my MBTI is INFJ, haha!😆😆😆 Best wishes for our future adventures!✨
+&nbsp;&nbsp;&nbsp; Hey there! 👋 So glad you stopped by my page! Let me introduce myself real quick ~ ❤️❤️❤️ My name is Xuyang Zhou(周绪洋). And I’m an undergraduate student at Chongqing University of Posts and Telecommunications, working under the awesome guidance of <a href="https://wangye0523.github.io/">Ye Wang</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ">Fei Tao</a>. I’m super into sci-fi novels and movies ——can’t get enough of them! Oh, and just for fun, my MBTI is INFJ, haha!😆😆😆 Best wishes for our future adventures!✨
 </div>
 
-
 # 🔥 News
+- *2025.02*, 🎉🎉 Our paper was accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)]
 - *2024.12*, 🎉🎉 Happy to get THE 6TH DIGIX GLOBAL AI CHALLENGE National Second Prize.
 - *2024.08*, 🎉🎉 Happy to get RAICOM 2024 National Thrid Prize again.
 
 # 📖 Educations
 - *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
+
+# 📄 Papers
+- *2025.02*,  _[Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection](https://github.com/TristanAlkaid/HCBS)_ accepted by _Information Processing and Management_. [Github](https://github.com/TristanAlkaid/HCBS)
+
 
 # 📝 Projects
 - *2023.06 - 2024.06*, Digitizing Your Mindmap, Supported by National College Student Innovation and Entrepreneurship Training Program with Project No.202310617004.
