@@ -53,6 +53,7 @@ redirect_from:
 - *2023.05*, The 16th Chinese Collegiate Computing Competition, Provincial Second Prize.
 
 # 🏆 Honors and Awards
+- *2024.10*, The Second Scholarship offered by Chongqing University of Posts and Telecommunications.
 - *2024.06*, The Outstanding Completion in the National College Student Innovation and Entrepreneurship Training Program.
 - *2024.06*, The Advanced Class Collective of the 2024 Academic Year in Chongqing Municipal Regular Higher Education Institutions offered Chongqing Municipal Education Commission.
 - *2024.02*, The Excellent Student Cadre offered by Chongqing University of Posts and Telecommunications.
