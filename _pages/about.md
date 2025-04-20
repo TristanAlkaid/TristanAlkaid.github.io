@@ -32,7 +32,7 @@ redirect_from:
 - *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 # 📄 Papers
-- *2025.02*,  _Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection_ accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)][[Free access before April 08, 2025](https://authors.elsevier.com/c/1kdLU15hYd-jQk)]
+- *2025.02*,  _"Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection"_ accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)][[Free access before April 08, 2025](https://authors.elsevier.com/c/1kdLU15hYd-jQk)]
 
 
 # 📝 Projects
