@@ -24,7 +24,7 @@ redirect_from:
 </div>
 
 # 🔥 News
-- *2025.02*, 🎉🎉 Our paper was accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)][[Free access before April 08, 2025](https://authors.elsevier.com/c/1kdLU15hYd-jQk)]
+- *2025.02*, 🎉🎉 Our paper was accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)]
 - *2024.12*, 🎉🎉 Happy to get THE 6TH DIGIX GLOBAL AI CHALLENGE National Second Prize.
 - *2024.08*, 🎉🎉 Happy to get RAICOM 2024 National Thrid Prize again.
 
@@ -32,8 +32,7 @@ redirect_from:
 - *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 # 📄 Papers
-- *2025.02*,  _"Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection"_ accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)][[Free access before April 08, 2025](https://authors.elsevier.com/c/1kdLU15hYd-jQk)]
-
+- *2025.02*,  _"Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection"_ accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)]
 
 # 📝 Projects
 - *2023.06 - 2024.06*, Digitizing Your Mindmap, Supported by National Undergraduate Training Program for Innovation and Entrepreneurship with Project No.202310617004.
