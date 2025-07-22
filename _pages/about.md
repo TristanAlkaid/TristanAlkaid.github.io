@@ -30,7 +30,7 @@ redirect_from:
 
 # 📖 Educations
 - *2025.09 - Now*, Ph.D student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
-- *2021.09 - 2025.06*, undergraduate student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
+- *2021.09 - 2025.06*, Bachelor of Engineering, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 # 📄 Papers
 - *2025.02*,  _"Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection"_ accepted by _Information Processing and Management_. [[Github](https://github.com/TristanAlkaid/HCBS)][[Paper](https://doi.org/10.1016/j.ipm.2025.104094)]
