@@ -29,7 +29,7 @@ redirect_from:
 - *2024.08*, 🎉🎉 Happy to get RAICOM 2024 National Thrid Prize again.
 
 # 📖 Educations
-- *2025.09 - Now*, Ph.D student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
+- *2025.09 - Now*, Ph.D. student, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 - *2021.09 - 2025.06*, Bachelor of Engineering, Computer Science and Technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 # 📄 Papers
